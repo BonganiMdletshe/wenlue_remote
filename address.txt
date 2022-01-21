@@ -2,3 +2,4 @@ address 01:
 b122 malindi ora, 25 small street, dubai
 
 address 02:
+a454 gladiator road, b33 ingwe towers, durban
